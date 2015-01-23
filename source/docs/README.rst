@@ -38,7 +38,7 @@ glad to help!
 -  Email - info@stackd.io
 -  IRC - `#stackdio on
    irc.freenode.net <http://webchat.freenode.net/?channels=stackdio>`__
--  Twitter: [@stackdio](http://twitter.com/stackdio)
+-  Twitter: `@stackdio <http://twitter.com/stackdio>`__
 -  StackExchange: Ask a question on any `StackExchange
    site <http://stackexchange.com/sites>`__ and tag it with
    ``stackd.io`` or ``stackdio``
