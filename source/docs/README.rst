@@ -9,7 +9,7 @@ systems engineering.
 Getting started
 ===============
 
-Please see our `Quick Start Guide <quickstart.md>`__ for a fast
+Please see our `Quick Start Guide <quickstart.html>`__ for a fast
 track to installing stackd.io
 
 Contributing
@@ -23,7 +23,7 @@ make stackd.io that more awesome, kindly drop us a note or submit an
 issue. If you do know how to code and you want to get your hands dirty,
 take a shot at one of our outstanding issues and submit a pull request.
 Please take a look at our `contributor
-guidelines <contributor_guide.md>`__ before submitting pull
+guidelines <contributor_guide.html>`__ before submitting pull
 requests though.
 
 Contact us

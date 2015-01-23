@@ -22,7 +22,7 @@ Filing issues and feature requests
 ==================================
 
 The process for filing issues and feature requests is described in the
-`Contact <contact.md>`__ page.
+`Contact <contact.html>`__ page.
 
 Contributing Code
 =================

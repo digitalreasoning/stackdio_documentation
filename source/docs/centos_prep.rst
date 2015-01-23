@@ -35,10 +35,10 @@ SELinux
 ~~~~~~~
 
 Getting things working using SELinux could be an entirely separate
-guide. For our purposes, it's completley out of scope, so we're going to
+guide. For our purposes, it's completely out of scope, so we're going to
 disable it.
 
-    **NOTE**: You will be rquired to restart the machine during this
+    **NOTE**: You will be required to restart the machine during this
     step.
 
 .. code:: bash
@@ -143,5 +143,5 @@ Next Steps
 ==========
 
 You're now finished with the CentOS-specific requirements for stackd.io.
-You can head back over to the `Quick Start Guide <quickstart.md>`__ and
+You can head back over to the `Quick Start Guide <quickstart.html>`__ and
 continue the installation of stackd.io.

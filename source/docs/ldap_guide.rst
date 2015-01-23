@@ -3,4 +3,3 @@ LDAP Guide
 ==========
 
 Coming Soon
-~~~~~~~~~~~

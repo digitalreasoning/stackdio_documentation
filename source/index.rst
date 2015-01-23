@@ -13,19 +13,11 @@ Contents:
    
    docs/README
    docs/centos_prep
-   docs/contact
-   docs/contributor_guide
-   docs/ldap_guide
-   docs/quickstart
    docs/ubuntu_prep
+   docs/quickstart
+   docs/js_spa_readme
    docs/webserver_guide
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   docs/ldap_guide
+   docs/contributor_guide
+   docs/contact
 

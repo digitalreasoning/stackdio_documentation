@@ -63,7 +63,7 @@ If you think you've found a bug, here's what we ask of you:
 
 5. Optionally, it would be fantastic if you could help us out and fix
    the problem yourself...if you're brave enough, see the `Countributor
-   Guide <contributor_guide.md>`__ on contributing to the project.
+   Guide <contributor_guide.html>`__ on contributing to the project.
 
 Usage Questions
 ~~~~~~~~~~~~~~~

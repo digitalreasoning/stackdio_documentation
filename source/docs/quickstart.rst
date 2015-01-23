@@ -8,7 +8,7 @@ intending to be complete or provide you with everything needed for a
 production-ready install, we may make some assumptions you don't agree
 with, and there may be things we missed. If you feel anything is out of
 the ordinary, a bit confusing, or just plain missing, please `contact
-us <../README.md>`__.
+us <contact.html>`__.
 
 Quick Start Script
 ~~~~~~~~~~~~~~~~~~
@@ -82,8 +82,8 @@ Follow one of the individual guides below to prepare your particular
 environment for stackd.io. Once you finish, come back here and continue
 on.
 
--  `Preparing CentOS for stackd.io installation <centos_prep.md>`__
--  `Preparing Ubuntu for stackd.io installation <ubuntu_prep.md>`__
+-  `Preparing CentOS for stackd.io installation <centos_prep.html>`__
+-  `Preparing Ubuntu for stackd.io installation <ubuntu_prep.html>`__
 
 Installing stackd.io
 ====================
@@ -168,7 +168,7 @@ LDAP
 ~~~~
 
 stackd.io can easily integrate with an LDAP server. See our `LDAP
-guide <ldap_guide.md>`__ for more information on configuring stackd.io
+guide <ldap_guide.html>`__ for more information on configuring stackd.io
 to work with LDAP. If you choose to go the LDAP route, you can skip this
 entire section because users who successfully authenticate and are
 members of the right groups via LDAP will automatically be created in
@@ -232,7 +232,7 @@ To configure Nginx for Ubuntu:
     sudo rm /etc/nginx/sites-enabled/default
 
 Before moving forward, take a minute to reference the `Javascript SPA
-ReadMe <../stackdio/server/core/static/stackdio/README.md>`__ to make
+ReadMe <js_spa_readme.html>`__ to make
 sure that you do all the necessary steps to install the needed JS
 libraries.
 
@@ -300,12 +300,3 @@ follow the steps below.
 
 The newly created users will now have access to stackd.io. Test this by
 logging out and signing in with one of the non-admin users.
-
-Next steps
-==========
-
-This concludes the quick start. At this point you should have a running
-stackd.io install, but you may need a bit more help in using the system.
-You can read through the `stackd.io tutorial <tutorial.md>`__ or watch
-the `stackd.io screencast <http://stackd.io/tour>`__ to learn a bit more
-about using the system to manage your cloud infrastructure.

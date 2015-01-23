@@ -78,5 +78,5 @@ Next Steps
 ==========
 
 You're now finished with the Ubuntu-specific requirements for stackd.io.
-You can head back over to the `Quick Start Guide <quickstart.md>`__ and
+You can head back over to the `Quick Start Guide <quickstart.html>`__ and
 continue the installation of stackd.io.
